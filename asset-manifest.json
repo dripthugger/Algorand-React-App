@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Algorand-React-App/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/Algorand-React-App/static/js/main.38e99725.chunk.js",
+    "main.js.map": "/Algorand-React-App/static/js/main.38e99725.chunk.js.map",
+    "runtime-main.js": "/Algorand-React-App/static/js/runtime-main.d0dc4f73.js",
+    "runtime-main.js.map": "/Algorand-React-App/static/js/runtime-main.d0dc4f73.js.map",
+    "static/css/2.ce9a61f0.chunk.css": "/Algorand-React-App/static/css/2.ce9a61f0.chunk.css",
+    "static/js/2.16a3b885.chunk.js": "/Algorand-React-App/static/js/2.16a3b885.chunk.js",
+    "static/js/2.16a3b885.chunk.js.map": "/Algorand-React-App/static/js/2.16a3b885.chunk.js.map",
+    "static/js/3.01f40791.chunk.js": "/Algorand-React-App/static/js/3.01f40791.chunk.js",
+    "static/js/3.01f40791.chunk.js.map": "/Algorand-React-App/static/js/3.01f40791.chunk.js.map",
+    "index.html": "/Algorand-React-App/index.html",
+    "static/css/2.ce9a61f0.chunk.css.map": "/Algorand-React-App/static/css/2.ce9a61f0.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/Algorand-React-App/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.16a3b885.chunk.js.LICENSE.txt": "/Algorand-React-App/static/js/2.16a3b885.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/Algorand-React-App/static/media/bootstrap-icons.ea98e12d.woff2",
+    "static/media/sandwich.2d312449.jpg": "/Algorand-React-App/static/media/sandwich.2d312449.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0dc4f73.js",
+    "static/css/2.ce9a61f0.chunk.css",
+    "static/js/2.16a3b885.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.38e99725.chunk.js"
+  ]
+}
